@@ -1,0 +1,4 @@
+jednotka v pdf je 1/72 * palec(2,54) = 0,03527777777777777777777
+
+to vynasobim meritkem a dostanu pomer
+napr 250*0,035277777=8,819444444 (0,088194444 scale v Blenderu)
